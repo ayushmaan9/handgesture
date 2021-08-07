@@ -1,0 +1,16 @@
+#head{
+    font-size: 18px;
+    border-radius: 10px;
+    letter-spacing: 10px;
+  }
+  body{
+      text-align: center;
+      background-color:aqua;
+      color: violet;
+  }
+  #camerae , #result
+{
+  border: 2px dashed violet;
+  width: 350px;
+  height: 300px; 
+}
